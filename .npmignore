@@ -1,0 +1,4 @@
+.vscode
+*.ts
+typings
+typings.json

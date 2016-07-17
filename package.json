@@ -15,6 +15,6 @@
     "prepublish": "typings i && tsc"
   },
   "bin": {
-    "mnotify": "notify.js"
+    "mnotify": "bin/mnotify"
   }
 }
