@@ -1,7 +1,6 @@
 {
   "name": "notify-via-messenger",
   "version": "0.1.0",
-  "main": "index.js",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^1.8.10",
@@ -14,5 +13,8 @@
   },
   "scripts": {
     "prepublish": "typings i && tsc"
+  },
+  "bin": {
+    "mnotify": "notify.js"
   }
 }
