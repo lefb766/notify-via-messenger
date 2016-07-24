@@ -1,7 +1,12 @@
 {
   "name": "notify-via-messenger",
   "version": "0.1.0",
+  "author": "Nobuhiro Nakamura <lefb766@live.jp>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lefb766/notify-via-messenger.git"
+  },
   "devDependencies": {
     "typescript": "^1.8.10",
     "typings": "^1.3.1"
